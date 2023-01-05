@@ -1,3 +1,4 @@
+These mention updates is not still override in this respository. Please wait for a few days for new update release here.
 ## We're excited to announce several updates to ChatGPT! Here's what's new:
 
 General performance: Among other improvements, users will notice that ChatGPT is now less likely to refuse to answer questions. 
